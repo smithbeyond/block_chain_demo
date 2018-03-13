@@ -1,0 +1,22 @@
+{
+	"ImportPath": "github.com/smithbeyond/block_chain_demo",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/davecgh/go-spew/spew",
+			"Comment": "v1.1.0-10-gdb69d09",
+			"Rev": "db69d09d2c587e9b9677f991dfcab1fc24d9086e"
+		},
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Comment": "v1.6.1-12-g07ba1fd",
+			"Rev": "07ba1fd60e210dc5cc6f86ec25dc9ecc7c95c295"
+		},
+		{
+			"ImportPath": "github.com/joho/godotenv",
+			"Comment": "v1.2.0-10-g6bb0851",
+			"Rev": "6bb08516677f8c8274c557fc801bee9ab564ab2c"
+		}
+	]
+}
